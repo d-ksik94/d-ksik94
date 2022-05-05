@@ -16,7 +16,9 @@ blog - https://ksik.tistory.com/
 > 
 > 새로운 건 적용해 봐야 하는 개발자
 
-
+<details>
+<summary>Show Details</summary>
+<div markdown="1">
 
 ## 기술 스택
 
@@ -88,3 +90,7 @@ blog - https://ksik.tistory.com/
 |2021.08.02</br>-</br>2021.09.30|APO고도화|가정폭력, 아동학대, 스토킹 사건들이 이슈화 됨에 따라 경찰관들의 충동중 업무 매뉴얼 숙지 / 관련사건 재발위험자 정보 검색 추가등 기존 앱에있는 기능들을 고도화</br><b>PART</b> : Android App (기여도 100%)   Backend (20%)</br> <b>LIST</b> : 재범위험 검색 UI 및 기능 /  업무 매뉴얼 다운, 뷰 기능 / 관련 사건 문서 작성, 문자발부, 고지서 출력기능</br><b>Stack</b> : *Java* , *Retrofit2* , *RestFul API* , *Oracle*|
 |2020.08.03</br>-</br>2020.12.31|범죄위험도 예측 분석 고도화|기존 경찰관 업무 지원 앱에 있는 순찰기능 및 현장 진단서 작성 / 협업기관 관리 고도화 </br> <b>PART</b> : Android App (기여도 50%)  Backend (20%)</br> <b>LIST</b> : 순찰 위치 UI / 위치 상세 UI / 50m이내 자동 순찰완료 기능 / 매뉴얼 다운 UI 및 기능 / 협업기관 등록,추가,삭제 UI 및 기능 / 진단서 작성, 고지서출력 UI 및 기능</br><b>Stack</b> : *Java* , *Material Design* , *ArcGis* , *Oracle* , *RestFul API*|
 |2019.10.01</br>-</br>2020.12.31|지역경찰 휴대서류 간소화|사건 출동시 경찰관이 들고다니는 서류철을 없애서 범죄현장에서 좀 더 유연한 대응을 하고자 하는 아이디어로 하게된 R&D 프로젝트로, 앱을 만들면서 지속적으로 경찰서를 방문하여 시연을 하고 피드백을 얻음 </br> <b>PART</b> : Android App (기여도 50%)</br> <b>LIST</b> : 경찰 소속정보 관리기능 / 사진,동영상 촬영기능 / QR코드 스캔기능 / 작성문서 녹취기능 / 문서 작성 위치 / STT등  </br><b>Stack</b> : *Java* , *WebKit* , *ArcGis*|
+
+</div>
+</details>
+
